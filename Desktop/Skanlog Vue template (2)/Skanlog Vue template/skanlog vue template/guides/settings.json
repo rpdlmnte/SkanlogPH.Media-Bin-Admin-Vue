@@ -1,0 +1,57 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "workbench.sideBar.location": "right",
+  "tabnine.experimentalAutoImports": true,
+  // "terminal.integrated.automationShell.windows": "",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": false,
+  "workbench.colorTheme": "Noctis",
+  "workbench.iconTheme": "vscode-icons",
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmDelete": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorStyle": "line",
+  "editor.codeActionsOnSave": ["source.organizeImports", "source.fixAll"],
+  "workbench.editorAssociations": {
+    "*.db": "default"
+  },
+  "eslint.packageManager": "yarn",
+  // "prettier.singleQuote": false,
+  // "prettier.trailingComma": "all",
+  // "prettier.quoteProps": "consistent",
+  // "prettier.jsxBracketSameLine": true,
+  // "prettier.endOfLine": "auto",
+  "editor.copyWithSyntaxHighlighting": false,
+  "html.format.endWithNewline": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.indentation": true,
+  "telemetry.telemetryLevel": "off",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "breadcrumbs.enabled": true
+}
