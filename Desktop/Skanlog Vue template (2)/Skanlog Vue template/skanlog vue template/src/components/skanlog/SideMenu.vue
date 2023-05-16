@@ -49,7 +49,7 @@
     <router-link to="/AdminUserManagement">
       <el-menu-item index="/AdminUserManagement">
         <el-icon><User /></el-icon>
-        <span>AdminUserManagement</span>
+        <span>User</span>
       </el-menu-item>
     </router-link>
   </el-menu>
